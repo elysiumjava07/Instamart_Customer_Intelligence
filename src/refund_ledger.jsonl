@@ -1,0 +1,4 @@
+{"timestamp": "2026-10-21T10:50:33.683271+00:00", "tool": "issue_refund", "run_id": "run-S1", "order_id": "ORD-100048", "refund_inr": 128.25}
+{"timestamp": "2026-10-21T10:50:33.687477+00:00", "tool": "issue_refund", "run_id": "run-S2", "order_id": "ORD-100067", "refund_inr": 135.0}
+{"timestamp": "2026-10-21T10:50:33.691763+00:00", "tool": "escalate_to_human", "run_id": "run-S3", "order_id": "ORD-100145", "refund_inr": 1999.0}
+{"timestamp": "2026-10-21T10:50:33.713991+00:00", "tool": "issue_refund", "run_id": "demo-S1-crash", "order_id": "ORD-100048", "refund_inr": 128.25}
